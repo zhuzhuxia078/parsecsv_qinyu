@@ -18,7 +18,7 @@ import java.io.*;
  *
  * How to Run:
  * Use parsecsv.jar and run below command line
- * java -jar <expeditions file path> <minerals file path>
+ * java -jar parsecsv.jar <expeditions file path> <minerals file path>
  *
  * sample cli:
  * java -jar parsecsv.jar '/Users/zhuqinyu/IdeaProjects/parsecsv/src/main/java/expeditions.csv' '/Users/zhuqinyu/IdeaProjects/parsecsv/src/main/java/minerals.csv'
